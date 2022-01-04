@@ -1,0 +1,2 @@
+python /Users/nicolasgallay/OneDrive/Telecom-Paris/Python-Telecom-Paris/INF727/INF727_projet/INF727_projet/clean.py %*
+python /Users/nicolasgallay/OneDrive/Telecom-Paris/Python-Telecom-Paris/INF727/INF727_projet/INF727_projet/deploy_2.py %* 
